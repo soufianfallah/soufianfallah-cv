@@ -1,2 +1,2 @@
 # soufianfallah-cv
-https://thedead40.github.io/soufianfallah-cv/
+https://soufianfallah.github.io/soufianfallah-cv/
