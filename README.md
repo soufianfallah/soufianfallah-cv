@@ -1,4 +1,6 @@
 # soufianfallah-cv
+
+netlify:
 https://soufianfallah.ga/
 
 https://soufianfallah.github.io/soufianfallah-cv/
